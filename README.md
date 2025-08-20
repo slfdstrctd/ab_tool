@@ -57,3 +57,18 @@ python main.py -e experiment_name --significance-level 0.1 --metrics revenue_usd
 - `-s, --significance-level`: P-value threshold (default: 0.12)
 - `--effect-sizes`: Effect sizes to test (default: 1.0, 2.0, 5.0, 10.0)
 - `--all-experiments`: Analyze all experiments
+
+
+## Demo
+
+### Web Interface
+![Web Interface Demo](assets/demo.jpg)
+
+The web interface provides an intuitive way to analyze A/B tests with interactive visualizations and real-time results.
+
+![Demo Screenshot 1](assets/demo1.jpg)
+![Demo Screenshot 2](assets/demo2.jpg)
+![Demo Screenshot 3](assets/demo3.jpg)
+
+### Command Line Interface
+![CLI Demo](assets/demo-cli.jpg)
